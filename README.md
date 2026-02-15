@@ -12,7 +12,7 @@ This repository serves as both a learning journal and a portfolio. Rather than s
 
 ## Tech Stack
 
-Projects are implemented in **Java** and **Python**, depending on the use case.
+Projects are implemented in **Java**.
 
 ## Structure
 
